@@ -1,4 +1,4 @@
-![a](https://github.com/AdhithiyanK/Library-Management/assets/121029258/e14a744b-2f8c-4153-b8dc-301cd1f944f1)# Library-Management
+
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
