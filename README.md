@@ -1,4 +1,4 @@
-# Library-Management
+![a](https://github.com/AdhithiyanK/Library-Management/assets/121029258/e14a744b-2f8c-4153-b8dc-301cd1f944f1)# Library-Management
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
@@ -25,9 +25,15 @@ Star UML
 
 ## USE CASE DIAGRAM :
 ![uc](https://github.com/AdhithiyanK/Library-Management/assets/121029258/4f4971c8-b39d-4d4a-aca0-ec7eabaf9e92)
+[cd1](https://github.com/AdhithiyanK/Library-Management/assets/121029258/3bcefb05-54e7-45b4-a11f-1bfca098a75a)
+![a](https://github.com/AdhithiyanK/Library-Management/assets/121029258/ae43afa1-3980-4d12-bc65-7778aec41cb3)
+![b](https://github.com/AdhithiyanK/Library-Management/assets/121029258/6e2d3f98-1f2a-4cf0-85db-1136cd4a7974)
+![cc](https://github.com/AdhithiyanK/Library-Management/assets/121029258/45b56de8-d4d6-48d0-81ab-e62b3707cac8)
+![DD](https://github.com/AdhithiyanK/Library-Management/assets/121029258/870808db-43af-400d-b253-555de49959ee)
 
-## CLASS DIAGRAM :
-![cd1](https://github.com/AdhithiyanK/Library-Management/assets/121029258/3bcefb05-54e7-45b4-a11f-1bfca098a75a)
+![FF](https://github.com/AdhithiyanK/Library-Management/assets/121029258/db196546-5e5c-4d6c-880c-6170620149e0)
+
+
 
 
 ### RESULT:
